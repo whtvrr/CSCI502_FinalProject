@@ -7,7 +7,7 @@ from telegram.error import BadRequest
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
+#load_dotenv()
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
