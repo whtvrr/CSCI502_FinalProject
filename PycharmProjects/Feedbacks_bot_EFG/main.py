@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 from pymongo import MongoClient
 from datetime import datetime
 from telegram.error import BadRequest
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import os
 
 #load_dotenv()
